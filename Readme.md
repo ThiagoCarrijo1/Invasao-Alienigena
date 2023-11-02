@@ -1,0 +1,1 @@
+Game no qual o player precisa proteger a terra de uma invasão alienígena com uma nave que dispara contra os alienígenas. A cada nível ficará mais rápido aumentando a dificuldade do jogo sendo mais divertido acumular pontos.
